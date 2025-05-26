@@ -1,1 +1,1 @@
-web: java -jar wordle.jar
+web: java -jar wordle.jar --server.port=5000
